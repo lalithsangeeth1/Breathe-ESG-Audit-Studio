@@ -1,0 +1,6 @@
+{
+  "name": "Breathe ESG Audit Studio",
+  "description": "Enterprise carbon accounting platform for ingesting, normalizing, validating, and auditing high-fidelity emissions data from SAP fuel and procurement exports, utility electric portals, and corporate travel platforms.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
